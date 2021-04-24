@@ -1,0 +1,174 @@
+(
+Q96QT6|reviewed|PHD finger protein 12|taxID:9606:2.85699
+,
+(
+(
+Q6PL18|reviewed|ATPase family AAA domain-containing protein 2|taxID:9606:0.590288
+,
+Q9ULI0|reviewed|ATPase family AAA domain-containing protein 2B|taxID:9606:0.590288
+):2.14346
+,
+(
+Q5HYC2|reviewed|Uncharacterized protein KIAA2026|taxID:9606:2.72607
+,
+(
+(
+P21675|reviewed|Transcription initiation factor TFIID subunit 1|taxID:9606:0.0637453
+,
+Q8IZX4|reviewed|Transcription initiation factor TFIID subunit 1-like|taxID:9606:0.0637453
+):2.43389
+,
+(
+Q9NR48|reviewed|Histone-lysine N-methyltransferase ASH1L|taxID:9606:2.55674
+,
+(
+(
+(
+Q9UIG0|reviewed|Tyrosine-protein kinase BAZ1B|taxID:9606:1.99563
+,
+(
+(
+Q9UIF8|reviewed|Bromodomain adjacent to zinc finger domain protein 2B|taxID:9606:0.888334
+,
+Q9UIF9|reviewed|Bromodomain adjacent to zinc finger domain protein 2A|taxID:9606:0.888334
+):0.984926
+,
+(
+(
+Q9HB58|reviewed|Sp110 nuclear body protein|taxID:9606:0.787998
+,
+(
+Q13342|reviewed|Nuclear body protein SP140|taxID:9606:0.284661
+,
+Q9H930|reviewed|Nuclear body protein SP140-like protein|taxID:9606:0.284661
+):0.503338
+):0.700324
+,
+(
+O15016|reviewed|Tripartite motif-containing protein 66|taxID:9606:1.33637
+,
+(
+Q13263|reviewed|Transcription intermediary factor 1-beta|taxID:9606:0.913679
+,
+(
+O15164|reviewed|Transcription intermediary factor 1-alpha|taxID:9606:0.517632
+,
+Q9UPN9|reviewed|E3 ubiquitin-protein ligase TRIM33|taxID:9606:0.517632
+):0.396048
+):0.422695
+):0.151948
+):0.384938
+):0.122373
+):0.131633
+,
+(
+(
+Q92830|reviewed|Histone acetyltransferase KAT2A|taxID:9606:0.198934
+,
+Q92831|reviewed|Histone acetyltransferase KAT2B|taxID:9606:0.198934
+):1.8241
+,
+(
+P51531|reviewed|Probable global transcription activator SNF2L2|taxID:9606:0.232805
+,
+P51532|reviewed|Transcription activator BRG1|taxID:9606:0.232805
+):1.79023
+):0.104229
+):0.232028
+,
+(
+Q9ULU4|reviewed|Protein kinase C-binding protein 1|taxID:9606:2.36772
+,
+(
+(
+P55201|reviewed|Peregrin|taxID:9606:0.409531
+,
+(
+O95696|reviewed|Bromodomain-containing protein 1|taxID:9606:0.381525
+,
+Q9ULD4|reviewed|Bromodomain and PHD finger-containing protein 3|taxID:9606:0.381525
+):0.0280058
+):2.04024
+,
+(
+Q9H0E9|reviewed|Bromodomain-containing protein 8|taxID:9606:2.62433
+,
+(
+Q86U86|reviewed|Protein polybromo-1|taxID:9606:2.59782
+,
+(
+Q15326|reviewed|Zinc finger MYND domain-containing protein 11|taxID:9606:2.39216
+,
+(
+(
+Q9NSI6|reviewed|Bromodomain and WD repeat-containing protein 1|taxID:9606:0.387787
+,
+(
+Q8WWQ0|reviewed|PH-interacting protein|taxID:9606:0.373795
+,
+Q6RI45|reviewed|Bromodomain and WD repeat-containing protein 3|taxID:9606:0.373795
+):0.0139919
+):1.99434
+,
+(
+Q9NRL2|reviewed|Bromodomain adjacent to zinc finger domain protein 1A|taxID:9606:2.34126
+,
+(
+Q12830|reviewed|Nucleosome-remodeling factor subunit BPTF|taxID:9606:2.23463
+,
+(
+Q9BXF3|reviewed|Cat eye syndrome critical region protein 2|taxID:9606:2.06243
+,
+(
+(
+Q03164|reviewed|Histone-lysine N-methyltransferase 2A|taxID:9606:0.752061
+,
+Q9UMN6|reviewed|Histone-lysine N-methyltransferase 2B|taxID:9606:0.752061
+):1.12578
+,
+(
+(
+Q09472|reviewed|Histone acetyltransferase p300|taxID:9606:0.403033
+,
+Q92793|reviewed|CREB-binding protein|taxID:9606:0.403033
+):1.22845
+,
+(
+(
+O60885|reviewed|Bromodomain-containing protein 4|taxID:9606:0.6266
+,
+(
+Q58F21|reviewed|Bromodomain testis-specific protein|taxID:9606:0.517763
+,
+(
+P25440|reviewed|Bromodomain-containing protein 2|taxID:9606:0.357838
+,
+Q15059|reviewed|Bromodomain-containing protein 3|taxID:9606:0.357838
+):0.159925
+):0.108837
+):0.945383
+,
+(
+Q9NPI1|reviewed|Bromodomain-containing protein 7|taxID:9606:1.03
+,
+Q9H8M2|reviewed|Bromodomain-containing protein 9|taxID:9606:1.03
+):0.541984
+):0.059497
+):0.246363
+):0.18459
+):0.172199
+):0.106625
+):0.0408659
+):0.0100417
+):0.205656
+):0.0265131
+):-0.174564
+):-0.0820537
+):-0.00842094
+):0.197447
+):-0.0591056
+):0.228434
+):0.00768232
+):0.123237
+)
+;
