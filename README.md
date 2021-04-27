@@ -1,1 +1,1 @@
-# compbio2021_project
+This repository contains folders for the storage of data, results, and the type of software used for the computational biology project. The project involves the creation of a protein expression clustermap and a phylogenetic tree of reviewed bromodomain-containing proteins. As a final note, care was taken to organize the files in each folder effectively.
